@@ -18,7 +18,8 @@ public class MainActivity extends AppCompatActivity {
     private CheckBox cb1;
     private RadioGroup rg;
     private RadioButton pickle,source;
-    private ImageView image;
+    private ImageView image;//asdsadsd
+    private int a;
 
     private Button btn;
     private int c;
