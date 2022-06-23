@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "465368766019",
+    "firebase_url": "https://temicommunication-99b7d-default-rtdb.firebaseio.com",
+    "project_id": "temicommunication-99b7d",
+    "storage_bucket": "temicommunication-99b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465368766019:android:dfb8a0d14ed10f8b44a6f6",
+        "android_client_info": {
+          "package_name": "com.example.healthtemiapplication"
+
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465368766019-ijj0ftth8rijdkspjg90itdujad889gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90a5eTyZqddFZ8alszvk_oi1hJcquigg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465368766019-ijj0ftth8rijdkspjg90itdujad889gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+
+  ],
+  "configuration_version": "1"
+}
